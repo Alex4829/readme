@@ -15,13 +15,5 @@
 
 ### 📫 Let’s Connect!  
 I love meeting new people and exchanging ideas. Feel free to reach out! 😊
-### 🌱 Ce învăț chiar acum
-- **Scripting FiveM** pentru a construi experiențe de joc captivante.
-
-### 🔭 Ce urmează?
-- Lansarea primului meu proiect personal în dezvoltare web.  
-
-### 📫 Hai să ne conectăm!  
-Îmi place să cunosc oameni noi și să fac schimb de idei. Simțiți-vă liber să contactați! 😊
 
 ![Stats](https://i.ibb.co/j4NWT3T/lua-html-css-pie-chart.png)
